@@ -1,0 +1,42 @@
+# Ignore build results
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Uu]ser[Ss]ettings/
+/Logs/
+/MemoryCaptures/
+
+# Ignore Unity generated meta files
+*.pidb.meta
+
+# Ignore auto-generated VS/MonoDevelop project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore Unity Package Manager
+/Packages/manifest.json
+/Packages/packages-lock.json
+
+# Ignore crash reports
+*.crash
+
+# Ignore packed addressables
+/AddressableAssetsData/*/*.bin*
+
+# Ignore platform-specific build caches
+/Library/ScriptAssemblies
+
+
+.vscode
+.DS_Store
+Recordings/*

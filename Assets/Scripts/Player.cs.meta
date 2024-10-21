@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e5906e09d560944a686e77bc7095abf7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tennisPrefab: {fileID: 2151884004416593748, guid: 4dc5339cc406a4bc7a1b77e5a047569a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
